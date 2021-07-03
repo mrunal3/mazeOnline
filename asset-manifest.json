@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.038edf2b.chunk.css",
-    "main.js": "/static/js/main.b122894d.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.259d3d6b.js",
-    "static/js/2.0eaa2a1f.chunk.js": "/static/js/2.0eaa2a1f.chunk.js",
-    "static/js/3.64310697.chunk.js": "/static/js/3.64310697.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.0eaa2a1f.chunk.js.LICENSE.txt": "/static/js/2.0eaa2a1f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/player_img.3a6853de.svg": "/static/media/player_img.3a6853de.svg"
+    "main.css": "/mazeOnline/static/css/main.038edf2b.chunk.css",
+    "main.js": "/mazeOnline/static/js/main.b122894d.chunk.js",
+    "runtime-main.js": "/mazeOnline/static/js/runtime-main.3ffda806.js",
+    "static/js/2.0eaa2a1f.chunk.js": "/mazeOnline/static/js/2.0eaa2a1f.chunk.js",
+    "static/js/3.64310697.chunk.js": "/mazeOnline/static/js/3.64310697.chunk.js",
+    "index.html": "/mazeOnline/index.html",
+    "static/js/2.0eaa2a1f.chunk.js.LICENSE.txt": "/mazeOnline/static/js/2.0eaa2a1f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mazeOnline/static/media/logo.6ce24c58.svg",
+    "static/media/player_img.3a6853de.svg": "/mazeOnline/static/media/player_img.3a6853de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.259d3d6b.js",
+    "static/js/runtime-main.3ffda806.js",
     "static/js/2.0eaa2a1f.chunk.js",
     "static/css/main.038edf2b.chunk.css",
     "static/js/main.b122894d.chunk.js"

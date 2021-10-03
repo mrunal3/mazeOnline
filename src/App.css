@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: diamond-shake .5s linear infinite .75s;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  border: 2px solid black;
+}
+
+.box-parent {
+  height: 80vh;
+  margin: 50px;
+}
+
+.start-button {
+  cursor: pointer;
+  float: right;
+  padding: 10px 20px;
+  font-size: x-large;
+  background-color: #918cc3;
+  box-shadow: 1px 1px;
+  border-radius: 5px;
+}
+
+body {
+  background-image: url(professional.jpg);
+  /* background: linear-gradient(90deg, #d4eece, #d4eece, #d4eece);
+              /* url('professional.jpg') no-repeat;
+              background-blend-mode: multiply;
+              background-size: cover; */
+}
+
+.playButton {
+  position: absolute !important;
+  top: 8px;
+  right: 40px;
+}
+
+@keyframes diamond-shake {
+  0% {transform: rotate(0)}
+  25% {transform: rotate(-3deg)}
+  50% {transform: rotate(0)}
+  75% {transform: rotate(3deg)}
+  100% {transform: rotate(0)}
+}
